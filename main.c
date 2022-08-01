@@ -99,30 +99,6 @@ int main()
    }while(rejouer==1);
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     return 0;
 }
 
